@@ -16,11 +16,11 @@ IMAGES, SOUNDS, HITMASKS = {}, {}, {}  # declaring dictionaries
 
 #list of all 3 positions of flap of the chicken
 PLAYERS_LIST = (
-    #brown chicken
+    #redwhite chicken
     (
-        'assets/sprites/redbird-upflap.png',
-        'assets/sprites/redbird-midflap.png',
-        'assets/sprites/redbird-downflap.png',
+        'assets/sprites/redwhitechicken-upflap.png',
+        'assets/sprites/redwhitechicken-midflap.png',
+        'assets/sprites/redwhitechicken-downflap.png',
     ),
     #white chicken
     (
@@ -28,11 +28,11 @@ PLAYERS_LIST = (
         'assets/sprites/whitechicken-midflap.png',
         'assets/sprites/whitechicken-downflap.png',
     ),
-    #yellow chicken
+    #orange chicken
     (
-        'assets/sprites/yellowbird-upflap.png',
-        'assets/sprites/yellowbird-midflap.png',
-        'assets/sprites/yellowbird-downflap.png',
+        'assets/sprites/orangechicken-upflap.png',
+        'assets/sprites/orangechicken-midflap.png',
+        'assets/sprites/orangechicken-downflap.png',
     ),
 )
 
